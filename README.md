@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:muhamadyousafie11@gmail.com">
     <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" />
   </a>
 </p>
@@ -92,15 +92,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMohsiniYousafi&show_icons=true&theme=chartreuse-dark" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMohsiniYousafi&layout=compact&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=M2YTech&show_icons=true&theme=chartreuse-dark" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M2YTech&layout=compact&theme=chartreuse-dark"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadMohsiniYousafi&theme=algolia&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=M2YTech&theme=algolia&no-bg=true" />
 </p>
 
 ---
