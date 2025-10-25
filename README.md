@@ -88,7 +88,7 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMohsiniYousafi&theme=algolia" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M2YTech&theme=algolia" alt="streak"/>
 </p>
 
 <p align="center">
