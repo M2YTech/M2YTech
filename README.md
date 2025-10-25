@@ -48,20 +48,20 @@
 
 <img align="right" width=250px height=250px alt="AI animation" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-### 🧠 About Me
-- 🎓 Pursuing **BSCS at Virtual University (ongoing)**
-- 🌱 Currently learning **Python**, **Deep Learning**, and **AI Fundamentals**
-- 🧩 Building logic through small Python projects and automation scripts
-- 🤖 Interested in applying AI in **healthcare, defense, and cybersecurity**
-- 💬 Ask me about **Machine Learning basics, Python OOP, or model workflows**
-- 💡 Goal: To build AI that benefits humanity — in this world and the Hereafter  
-- ⚡ Fun fact: *I see AI as a tool for service, not supremacy.*
+### About Me
+- Pursuing **BSCS at Virtual University (ongoing)**
+- Currently learning **Python**, **Deep Learning**, and **AI Fundamentals**
+- Building logic through small Python projects and automation scripts
+- Interested in applying AI in **healthcare, defense, and cybersecurity**
+- Ask me about **Machine Learning basics, Python OOP, or model workflows**
+- Goal: To build AI that benefits humanity — in this world and the Hereafter  
+- Fun fact: *I see AI as a tool for service, not supremacy.*
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
-#### 🧩 Programming
+#### Programming
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"/>
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=plotly&logoColor=black"/>
 </p>
 
-#### 🤖 Machine Learning & AI
+#### Machine Learning & AI
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white"/>
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white"/>
 </p>
 
-#### 💻 Tools & Platforms
+#### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
@@ -87,7 +87,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M2YTech&theme=algolia" alt="streak"/>
 </p>
@@ -99,14 +99,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=M2YTech&theme=algolia&no-bg=true" />
 </p>
 
 ---
 
-### 🌙 Inspiration
+### Inspiration
 <p align="center">
   <em>“The best among you are those who bring the greatest benefit to others.”</em>  
   <br>— Prophet Muhammad ﷺ
